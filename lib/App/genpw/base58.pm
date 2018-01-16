@@ -11,15 +11,6 @@ use App::genpw ();
 
 our %SPEC;
 
-my $default_patterns = [
-    '%w %w %w',
-    '%w %w %w %w',
-    '%w %w %w %w %w',
-    '%w %w %w %w %w %w',
-    '%w%4d%w',
-    '%w%6d%s',
-];
-
 my %args = %{$App::genpw::SPEC{genpw}{args}};
 delete $args{patterns};
 delete $args{case};
