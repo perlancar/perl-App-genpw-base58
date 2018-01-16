@@ -52,3 +52,5 @@ See the included script L<genpw-base58>.
 L<https://en.wikipedia.org/wiki/Base58>
 
 L<genpw> (from L<App::genpw>)
+
+L<genpw-base56> (from L<App::genpw::base56>)
