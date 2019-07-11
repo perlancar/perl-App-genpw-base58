@@ -1,4 +1,4 @@
-0.002   2018-01-16 (PERLANCAR)
+0.002   2018-01-16  Released-By: PERLANCAR
 
         - No functional changes.
 
@@ -7,6 +7,6 @@
         - Tweak generated CLI (no need to read config & env).
 
 
-0.001   2018-01-16 (PERLANCAR)
+0.001   2018-01-16  Released-By: PERLANCAR
 
         - First release.
